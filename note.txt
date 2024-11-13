@@ -1,0 +1,5 @@
+mongoDB:
+rahadul789@gmail.com
+
+Project name: Reasonable Saas AI
+username, pass : rahadul789
